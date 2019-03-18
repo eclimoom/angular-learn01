@@ -39,7 +39,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 
-很简单基础的 Angular 5.0写的企业后台管理系统框架，
+很简单基础的 Angular 7.0写的企业后台管理系统框架，
 集成了bootstrap，d3js等常用的库，但只是提供大体布局框架，
 需要根据自己的业务需求来布局和填写细节，
 目录结构遵守Angular的建议，并结合真实的业务场景，
